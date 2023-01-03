@@ -2293,6 +2293,28 @@
 	},
 	{
 		"type": "Territories",
+		"title": "BGC",
+		"notes": "Territorio che i BGC vogliono conquistarsi",
+		"order": 0,
+		"strokecolor": "1818D6",
+		"fillcolor": "FFFFFF",
+		"latlngarray": [
+			{"lat": -74.958, "lng": -7.032},
+			{"lat": -73.350, "lng": -2.096},
+			{"lat": -72.800, "lng": -1.020},
+			{"lat": -72.386, "lng": 0.035},
+			{"lat": -71.685, "lng": 0.101},
+			{"lat": -70.814, "lng": 0.287},
+			{"lat": -70.350, "lng": -0.580},
+			{"lat": -69.732, "lng": -0.767},
+			{"lat": -69.731, "lng": -8.112},
+			{"lat": -70.246, "lng": -8.222},
+			{"lat": -70.535, "lng": -8.371},
+			{"lat": -73.098, "lng": -15.033}		
+		]
+	},
+	{
+		"type": "Territories",
 		"title": "Families",
 		"notes": "Forum Drive Families",
 		"order": 0,
@@ -2321,6 +2343,30 @@
 			{"lat": -77.303, "lng": -4.161}
 		]
 	},
+		{
+		"type": "Territories",
+		"title": "Vagos",
+		"notes": "Territori che i Vagos vogliono conquistare",
+		"order": 0,
+		"strokecolor": "E8F000",
+		"fillcolor": "FFFFFF",
+		"latlngarray": [
+			{"lat": -77.303, "lng": -4.225},
+			{"lat": -76.558, "lng": -8.037},
+			{"lat": -76.347, "lng": -10.212},
+			{"lat": -75.264, "lng": -6.774},
+			{"lat": -72.656, "lng": 1.027},
+			{"lat": -72.874, "lng": 2.006},
+			{"lat": -73.093, "lng": 2.269},
+			{"lat": -74.352, "lng": 2.182},
+			{"lat": -74.846, "lng": 1.876},
+			{"lat": -75.172, "lng": 1.032},
+			{"lat": -75.295, "lng": 0.043},
+			{"lat": -75.691, "lng": -3.500},
+			{"lat": -75.777, "lng": -4.027},
+			{"lat": -76.509, "lng": -1.061}
+		]
+	},
 	{
 		"type": "Territories",
 		"title": "Bloods",
@@ -2338,7 +2384,7 @@
 	{
 		"type": "Neutral",
 		"title": "Mega Mall",
-		"notes": "A place to buy repair kits, radios, and body armor.",
+		"notes": "Ritrovo di molti ragazzi",
 		"strokecolor": "00DA7D",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -2354,208 +2400,10 @@
 	},
 	
 	{
-		"type": "Automotive",
-		"title": "Beekers Garage & Parts",
-		"notes": "Repair shop",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CADA",
-		"latlngarray": [
-			{"lat": 78.059, "lng": -12.004},
-			{"lat": 77.942, "lng": -11.414},
-			{"lat": 77.875, "lng": -11.738},
-			{"lat": 77.991, "lng": -12.329}
-		]
-	},
-	{
-		"type": "Automotive",
-		"title": "Benny's Original Motor Works",
-		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -67.373, "lng": -16.101},
-			{"lat": -67.791, "lng": -13.025},
-			{"lat": -68.502, "lng": -13.805},
-			{"lat": -68.552, "lng": -15.474},
-			{"lat": -68.077, "lng": -14.979},
-			{"lat": -67.887, "lng": -16.617}
-		]
-	},
-	{
-		"type": "Automotive",
-		"title": "Burton Los Santos Customs",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CADA",
-		"latlngarray": [
-			{"lat": -54.519, "lng": -24.945},
-			{"lat": -54.888, "lng": -23.143},
-			{"lat": -55.609, "lng": -23.528},
-			{"lat": -55.911, "lng": -23.539},
-			{"lat": -55.942, "lng": -24.154},
-			{"lat": -56.133, "lng": -25.154},
-			{"lat": -55.584, "lng": -25.714}
-		]
-	},
-	{
-		"type": "Automotive",
-		"title": "Deluxe Car Garage/Showroom",
-		"notes": "Associated with H&O Exports",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CADA",
-		"latlngarray": [
-			{"lat": -65.615, "lng": 7.982},
-			{"lat": -65.578, "lng": 9.712},
-			{"lat": -66.158, "lng": 9.712},
-			{"lat": -66.158, "lng": 8.026},
-			{"lat": -65.962, "lng": 7.949}
-		]
-	},
-	{
-		"type": "Automotive",
-		"title": "H&O Exports",
-		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter of Chang Gang full control of operations.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD880",
-		"latlngarray": [
-			{"lat": -73.481, "lng": 9.939},
-			{"lat": -73.428, "lng": 21.541},
-			{"lat": -75.609, "lng": 21.541},
-			{"lat": -75.609, "lng": 8.815},
-			{"lat": -74.807, "lng": 9.463}
-		]
-	},
-	{
-		"type": "Automotive",
-		"title": "H&O Exports Entrance",
-		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter of Chang Gang full control of operatons.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -73.863, "lng": 10.497},
-			{"lat": -73.936, "lng": 12.804},
-			{"lat": -74.131, "lng": 12.749},
-			{"lat": -74.069, "lng": 10.421}
-		]
-	},
-	{
-		"type": "Automotive",
-		"title": "Harmony",
-		"notes": "Harmony Repairs Garage or Harmony to most, is a well-known repair shop owned by Jordan Walker in Northern Blaine County.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": 14.563, "lng": 18.867},
-			{"lat": 14.563, "lng": 20.295},
-			{"lat": 13.177, "lng": 20.295},
-			{"lat": 13.177, "lng": 18.867}
-		]
-	},
-	{
-		"type": "Automotive",
-		"title": "Hayes",
-		"notes": "The repair shop was previously owned by Igor Skovacic. Ownership has since been passed on to Shane Powers.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -60.132, "lng": -56.756},
-			{"lat": -59.581, "lng": -55.031},
-			{"lat": -59.819, "lng": -54.679},
-			{"lat": -60.394, "lng": -56.359}
-		]
-	},
-	{
-		"type": "Automotive",
-		"title": "International Airport Los Santos Customs",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CADA",
-		"latlngarray": [
-			{"lat": -76.057, "lng": -48.179},
-			{"lat": -76.239, "lng": -47.382},
-			{"lat": -76.409, "lng": -48.086},
-			{"lat": -76.219, "lng": -48.877}
-		]
-	},
-	{
-		"type": "Automotive",
-		"title": "Iron Hog Repairs",
-		"notes": "Iron Hog is owned and run by Lucille Hellman, and originally operated out of the garage at the Lost MC compound in Stab City, when it was founded in 2020. In 2021, Iron Hog was relocated to its own building at the Sandy Shores Airfield, and made its grand opening on September 11th, 2021. The shop specializes in motorcycles and is protected by the Lost MC",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": 32.079, "lng": 35.687},
-			{"lat": 32.455, "lng": 36.593},
-			{"lat": 31.794, "lng": 37.071},
-			{"lat": 31.399, "lng": 36.096}
-		]
-	},
-	{
-		"type": "Automotive",
-		"title": "Murrieta Heights Benny's Original Motor Works",
-		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -66.732, "lng": 11.959},
-			{"lat": -66.732, "lng": 12.851},
-			{"lat": -67.021, "lng": 12.851},
-			{"lat": -67.038, "lng": 11.959}
-		]
-	},
-	{
-		"type": "Automotive",
-		"title": "Ottos Auto",
-		"notes": "Ottos Autos is a second-hand car dealership and mechanic shop created by Otto Delmar. The ownership of the business is split three ways between the Diamond Casino and Resort (Dean Watson and Otto), Leslie Lingberg and Marlo Stanfield. As Otto is also the creator of Diamond Hand Credit the shop is able to offer fast and easy loans to people buying cars who need a little extra cash. With Leslie Lingberg being a 33% shareholder, the business has a partnership with PDM where people looking to sell cars will be directed to Ottos Autos.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -65.014, "lng": 8.921},
-			{"lat": -65.014, "lng": 9.712},
-			{"lat": -65.239, "lng": 9.712},
-			{"lat": -65.257, "lng": 8.921}
-		]
-	},
-	{
-		"type": "Automotive",
-		"title": "Overboost Drift School",
-		"notes": "The Overboost Drift School provides lessons on drifting.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -79.179, "lng": -12.071},
-			{"lat": -79.560, "lng": -13.719},
-			{"lat": -79.500, "lng": -14.664},
-			{"lat": -79.584, "lng": -15.104},
-			{"lat": -79.588, "lng": -16.048},
-			{"lat": -78.612, "lng": -23.299},
-			{"lat": -78.551, "lng": -23.124},
-			{"lat": -78.560, "lng": -15.982},
-			{"lat": -79.109, "lng": -11.961}
-		]
-	},
-	{
 		"id": 4014,
 		"type": "Automotive",
 		"title": "Premium Deluxe Motorsport",
-		"notes": "Premium Deluxe Motorsport, or PDM as most call it, is a car dealership run by businessman Leslie Lingberg. PDM is the place where most people buy their first car in city. PDM has a working relationship with Diamond Hand Credit who provide financing to prospective car buyers.",
+		"notes": "",
 		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
@@ -2568,8 +2416,22 @@
 	},
 	{
 		"type": "Automotive",
-		"title": "Strawberry Benny's Original Motor Works",
-		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
+		"title": "Otto's Auto",
+		"notes": "L'officina più famosa di Los Santos",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": -65.258, "lng": 7.952},
+			{"lat": -65.217, "lng": 10.017},
+			{"lat": -64.503, "lng": 10.039},
+			{"lat": -64.455, "lng": 7.864}
+		]
+	},
+	{
+		"type": "Automotive",
+		"title": "Benny's Original Motor Works",
+		"notes": "Il Benny's è una delle più grandi officine di Los Santos",
 		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
@@ -2582,8 +2444,8 @@
 	},
 	{
 		"type": "Automotive",
-		"title": "Tuner Shop",
-		"notes": "The Tuner Shop, also known as the Tuna Shop, is a repair shop and car dealership owned by Eddie Marshall. He owns 52%. It is managed by Tommy Cruizer, and its Sales Operations are run by Mary Mushkin, Chip Wheeler and Eddie himself.",
+		"title": "Tuner",
+		"notes": "Questa è un officina che fa modifiche non del tutto legali",
 		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
@@ -2652,7 +2514,7 @@
 	{
 		"type": "Automotive",
 		"title": "Little Seoul Gas Station",
-		"notes": "A very popular gas station located in Little Seoul.",
+		"notes": "",
 		"order": 1,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
@@ -2748,56 +2610,11 @@
 			{"lat": -70.029, "lng": -8.042}
 		]
 	},
-	{
-		"type": "Automotive",
-		"title": "Refuel Hanger",
-		"notes": "Where helicopters refuel.",
-		"order": 2,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -82.932, "lng": -52.405},
-			{"lat": -83.072, "lng": -50.449},
-			{"lat": -83.109, "lng": -50.702},
-			{"lat": -83.246, "lng": -51.691},
-			{"lat": -83.133, "lng": -53.372}
-		]
-	},
-	{
-		"type": "Automotive",
-		"title": "Repair Hanger",
-		"notes": "Where helicopters are repaired.",
-		"order": 2,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -82.128, "lng": -63.573},
-			{"lat": -82.247, "lng": -62.054},
-			{"lat": -82.388, "lng": -62.658},
-			{"lat": -82.267, "lng": -64.185}
-		]
-	},
-	{
-		"type": "Automotive",
-		"title": "Repair Hanger",
-		"notes": "Where helicopters are repaired.",
-		"order": 2,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": 24.542, "lng": -67.694},
-			{"lat": 23.285, "lng": -65.288},
-			{"lat": 19.366, "lng": -67.716},
-			{"lat": 20.688, "lng": -70.144}
-		]
-	},
-
-
 
 	{
 		"type": "Heists",
 		"title": "Fleeca Bank",
-		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"notes": "Una delle tante filiali della Fleeca",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
@@ -2811,7 +2628,7 @@
 	{
 		"type": "Heists",
 		"title": "Fleeca Bank",
-		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"notes": "Una delle tante filiali della Fleeca",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
@@ -2825,7 +2642,7 @@
 	{
 		"type": "Heists",
 		"title": "Fleeca Bank",
-		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"notes": "Una delle tante filiali della Fleeca",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FFD700",
@@ -2841,39 +2658,8 @@
 	},
 	{
 		"type": "Heists",
-		"title": "Laptop Pickup",
-		"notes": "Where phone dongles and laptops are picked up.",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": 25.902, "lng": -1.105},
-			{"lat": 27.082, "lng": -0.226},
-			{"lat": 26.532, "lng": 0.719},
-			{"lat": 25.297, "lng": -0.127}
-		]
-	},
-	{
-		"type": "Heists",
-		"title": "Laptop Shop",
-		"notes": "Where laptops are bought.",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": -64.154, "lng": -56.186},
-			{"lat": -63.918, "lng": -55.471},
-			{"lat": -63.666, "lng": -54.691},
-			{"lat": -64.254, "lng": -53.659},
-			{"lat": -64.648, "lng": -54.878}
-		]
-	},
-	{
-		"type": "Heists",
 		"title": "Paleto Bank",
-		"notes": "Paleto Bank (Blaine County Savings Bank) is the second stage progression of bank robberies.",
+		"notes": "La Paleto Bank è una banca di Blaine Country",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
@@ -2886,8 +2672,8 @@
 	},
 	{
 		"type": "Heists",
-		"title": "The Casino",
-		"notes": "The Casino is owned and operated by Dean Watson and ran by Chief Executive Officer Cassie Cupcakes. Originally the CEO position was given to Kevin Whipaloo by both Dean Watson & Otto Delmar which he accepted with the terms being he would resign from Burger Shot. However, the next day Kevin ran out of town and has not been seen since. The Casino Heist is the fifth stage progression of bank robberies.",
+		"title": "Diamond Casino",
+		"notes": "Il Diamond Casino è un ritrovo di gente ricca",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
@@ -2902,8 +2688,8 @@
 	},
 	{
 		"type": "Heists",
-		"title": "The City Vault",
-		"notes": "The City Vault (Pacific Standard Public Deposit Bank) is the third stage and fourth progression of bank robberies.",
+		"title": "Pacific Bank",
+		"notes": "La Pacific Bank è la banca più grande di Los Santos",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
@@ -2919,29 +2705,11 @@
 			"yt_user_link": "c/xqcow"
 		}
 	},
-	{
-		"type": "Heists",
-		"title": "VAR Heist",
-		"notes": "The VAR Heist is accessible from the roof of a building in Morningwood, using VAR headsets (obtained from the Yacht Heist) criminals can enter a virtual world to fight hostiles while attempting to hack into terminals and gain illegal data.",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": -57.785, "lng": -21.025},
-			{"lat": -57.904, "lng": -20.552},
-			{"lat": -58.087, "lng": -20.716},
-			{"lat": -57.971, "lng": -21.189}
-		],
-		"video": {
-			"yt_id": "_ec0C13ipKE",
-			"yt_user_display": "Sykkuno",
-			"yt_user_link": "user/Sykkuno"
-		}
-	},
+
 	{
 		"type": "Heists",
 		"title": "Vangelico Jewelry Store",
-		"notes": "Retailer of high-end jewelry and blood diamonds. A common place for criminals to heist.",
+		"notes": "La Vangelico è una Gioielleria molto famosa a Los Santos di recente è stata rapinata",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
@@ -2953,32 +2721,11 @@
 			{"lat": -56.851, "lng": -33.394}
 		]
 	},
-	{
-		"type": "Heists",
-		"title": "Yacht Heist",
-		"notes": "The Yacht Heist provids VAR headsets for the VAR heist.",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": -68.189, "lng": -73.584},
-			{"lat": -68.189, "lng": -71.233},
-			{"lat": -68.608, "lng": -71.233},
-			{"lat": -68.608, "lng": -73.584}
-		],
-		"video": {
-			"yt_id": "Q9qSKrflV3E",
-			"yt_user_display": "xQcOW",
-			"yt_user_link": "c/xQcOW"
-		}
-	},
-
-
 
 	{
 		"type": "Legal",
-		"title": "AirX Flight School",
-		"notes": "AirX is owned by Jackie Snow. Knowing their passion, skill, and experience for flying, Bryce Miller, Tony Corleone, and Olivia Copper were the first to be recruited into the flight school. Bryce was hired as Flight Chief/Manager and Instructor of AirX. Tony and Copper were also hired as Flight Instructors. AirX Flight School operates out of Fort Zancudo military base.",
+		"title": "Fort Zancudo",
+		"notes": "Fort Zancudo è una delle più grandi basi militari di Los Santos",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -3018,7 +2765,7 @@
 	{
 		"type": "Legal",
 		"title": "Bob Smith PD",
-		"notes": "Bob Smith Police Department, formerly known as Vespucci Police Department was named after former Chief of Police Bob Smith. Who was the longest standing Chief in Los Santos, beloved by the people.",
+		"notes": "",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -3038,7 +2785,7 @@
 	{
 		"type": "Legal",
 		"title": "Davis PD",
-		"notes": "",
+		"notes": "Viene usato dal lspd come deposito dei veicoli sequestrati",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -3051,23 +2798,8 @@
 	},
 	{
 		"type": "Legal",
-		"title": "Impound Lot",
-		"notes": "Where cars go when they get impounded.",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": -68.824, "lng": -22.398},
-			{"lat": -68.799, "lng": -18.344},
-			{"lat": -69.088, "lng": -18.355},
-			{"lat": -69.151, "lng": -19.146},
-			{"lat": -69.112, "lng": -22.398}
-		]
-	},
-	{
-		"type": "Legal",
 		"title": "Mission Row PD",
-		"notes": "The Los Santos Police Department, along with the Paleto Bay Sheriff's Office, the Senora Desert Sheriff's Office, the San Andreas State Police and the San Andreas State Park Rangers, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
+		"notes": "La centrale di Mission Row è una delle centrali più attive di Los Santos",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -3080,8 +2812,8 @@
 	},
 	{
 		"type": "Legal",
-		"title": "PBSO",
-		"notes": "Paleto Bay Sheriff's Office headquarters ran by Kyle Pred.",
+		"title": "LSSD",
+		"notes": "La centrale degli sheriffi è l'unica delle centrali usate a Paleto Bay",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -3097,143 +2829,11 @@
 			{"lat": 73.426, "lng": -29.919}
 		]
 	},
-	{
-		"type": "Legal",
-		"title": "SDSO",
-		"notes": "Run by Chief Toretti, the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": 40.127, "lng": 37.054},
-			{"lat": 40.912, "lng": 38.801},
-			{"lat": 40.061, "lng": 39.428},
-			{"lat": 39.274, "lng": 37.692}
-		]
-	},
-	{
-		"type": "Legal",
-		"title": "The Courthouse",
-		"notes": "Usually find randoms chilling here, but also has had some gunfights. Ran by Dennis LaBarrio",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": -58.778, "lng": -9.293},
-			{"lat": -59.214, "lng": -7.029},
-			{"lat": -59.326, "lng": -6.546},
-			{"lat": -59.421, "lng": -6.315},
-			{"lat": -59.549, "lng": -6.216},
-			{"lat": -59.849, "lng": -6.183},
-			{"lat": -60.053, "lng": -6.282},
-			{"lat": -60.434, "lng": -6.557},
-			{"lat": -60.456, "lng": -10.523}
-		]
-	},
-
-
-
-	{
-		"type": "Medical",
-		"title": "Boe Jangles's House",
-		"notes": "Boe Jangles was a well known criminal in Los Santos and had connections across the city. He also worked for and founded the White Widow Dispensary. Boe had close ties with Chang Gang and was initiated into the gang on July 8th 2020. On July 4th, 2020 he retired and can now be found giving out hugs at his house. Reset in peace.",
-		"order": 0,
-		"strokecolor": "FF005A",
-		"fillcolor": "FF005A",
-		"latlngarray": [
-			{"lat": -58.657, "lng": 15.137},
-			{"lat": -58.824, "lng": 15.654},
-			{"lat": -59.007, "lng": 16.008},
-			{"lat": -59.222, "lng": 16.206},
-			{"lat": -59.501, "lng": 15.514},
-			{"lat": -59.019, "lng": 14.686}
-		]
-	},
-	{
-		"type": "Medical",
-		"title": "Central Los Santos Medical Center",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FF005A",
-		"fillcolor": "FF005A",
-		"latlngarray": [
-			{"lat": -70.724, "lng": -4.978},
-			{"lat": -71.513, "lng": -2.066},
-			{"lat": -72.157, "lng": -5.626},
-			{"lat": -71.673, "lng": -7.439}
-		]
-	},
-	{
-		"type": "Medical",
-		"title": "Grandma's",
-		"notes": "Where you go to pick up your gang after a shootout.",
-		"order": 0,
-		"strokecolor": "FF005A",
-		"fillcolor": "FF005A",
-		"latlngarray": [
-			{"lat": 63.316, "lng": 56.517},
-			{"lat": 63.175, "lng": 56.776},
-			{"lat": 63.051, "lng": 56.918},
-			{"lat": 62.976, "lng": 56.907},
-			{"lat": 62.801, "lng": 56.787},
-			{"lat": 62.725, "lng": 56.721},
-			{"lat": 62.614, "lng": 56.501},
-			{"lat": 62.319, "lng": 55.864},
-			{"lat": 62.197, "lng": 55.556},
-			{"lat": 62.523, "lng": 54.864}
-		]
-	},
-	{
-		"type": "Medical",
-		"title": "Grandpa's",
-		"notes": "Similar to Grandma's, Lesser known grandpa's is another place where you can ressurect people.",
-		"order": 0,
-		"strokecolor": "FF005A",
-		"fillcolor": "FF005A",
-		"latlngarray": [
-			{"lat": 61.701, "lng": -44.224},
-			{"lat": 61.445, "lng": -42.851},
-			{"lat": 60.787, "lng": -43.369},
-			{"lat": 61.056, "lng": -44.839}
-		]
-	},
-	{
-		"type": "Medical",
-		"title": "Parsons Hill",
-		"notes": "Parsons Rehabilitation Center is a psychiatric rehabilitation facility for 51-50 patients. The patients referred to this center are primarily non-violent individuals that have been determined as unsafe for themselves and/or others. Patients can be held on a three-day temporary hold, or indefinitely. After an evaluation, only an authorized psychologist or a judge can determine if the patient will be released, or remain in the center for further treatment.",
-		"order": 0,
-		"strokecolor": "FF005A",
-		"fillcolor": "FF005A",
-		"latlngarray": [
-			{"lat": -34.315, "lng": -58.779},
-			{"lat": -33.942, "lng": -58.132},
-			{"lat": -34.115, "lng": -57.889},
-			{"lat": -34.359, "lng": -57.692},
-			{"lat": -34.722, "lng": -57.495},
-			{"lat": -34.974, "lng": -57.393},
-			{"lat": -36.154, "lng": -57.096},
-			{"lat": -36.464, "lng": -56.976},
-			{"lat": -37.289, "lng": -59.118},
-			{"lat": -37.552, "lng": -59.448},
-			{"lat": -38.202, "lng": -61.205},
-			{"lat": -38.159, "lng": -61.623},
-			{"lat": -37.734, "lng": -61.887},
-			{"lat": -37.412, "lng": -61.799},
-			{"lat": -37.289, "lng": -61.359},
-			{"lat": -36.939, "lng": -61.216},
-			{"lat": -36.216, "lng": -61.612},
-			{"lat": -35.834, "lng": -61.392},
-			{"lat": -35.432, "lng": -60.678},
-			{"lat": -35.073, "lng": -60.162},
-			{"lat": -34.704, "lng": -59.689},
-			{"lat": -34.541, "lng": -59.184}
-		]
-	},
+	
 	{
 		"type": "Medical",
 		"title": "Pillbox Medical Center",
-		"notes": "Pillbox Medical Center is the main hospital in Los Santos. Pillbox is the center of higher medicine in the city of Los Santos. It is home to the Emergency Medical Services, however EMS is not owned or funded by the hospital. They work with the rest of the governmental agencies across the city and routinely give them necessary higher medical services.",
+		"notes": "Il Pillbox Medical Center è l'ospedale più attivo di los Santos",
 		"order": 0,
 		"strokecolor": "FF005A",
 		"fillcolor": "FF005A",
@@ -3247,37 +2847,7 @@
 			{"lat": -62.371, "lng": -7.168}
 		]
 	},
-	{
-		"type": "Medical",
-		"title": "El Burro Heights Fire Station",
-		"notes": "El Burro Heights Fire Station is an official office of EMS.",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -71.716, "lng": 21.124},
-			{"lat": -71.735, "lng": 18.447},
-			{"lat": -72.255, "lng": 18.458},
-			{"lat": -72.282, "lng": 21.732}
-		]
-	},
-	{
-		"type": "Medical",
-		"title": "Viceroy Medical Center",
-		"notes": "Viceroy Medical Center is a secondary hospital in Los Santos.",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -68.741, "lng": -37.279},
-			{"lat": -69.352, "lng": -40.693},
-			{"lat": -69.956, "lng": -39.550},
-			{"lat": -70.110, "lng": -37.221},
-			{"lat": -69.533, "lng": -35.592}
-		]
-	},
-
-
+	
 	{
 		"type": "Restaurants",
 		"title": "Burger Shot",
@@ -3298,8 +2868,39 @@
 	},
 	{
 		"type": "Restaurants",
+		"title": "Pizza This Pizzeria",
+		"notes": "Pizza This Pizzeria è un locale dove i piccoli criminali possono andare a parlare con un signore anziano (Nonno Peppe)",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -64.405, "lng": 7.936},
+			{"lat": -64.396, "lng": 9.936},
+			{"lat": -64.061, "lng": 9.386},
+			{"lat": -63.810, "lng": 8.892},
+			{"lat": -63.655, "lng": 8.387},
+			{"lat": -63.586, "lng": 7.892}
+		],
+	},
+	{
+		"type": "Restaurants",
+		"title": "Bean Machine",
+		"notes": "Il Bean Machine è un locale",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -67.351, "lng": -11.599},
+			{"lat": -68.035, "lng": -12.368},
+			{"lat": -68.085, "lng": -12.017},
+			{"lat": -68.089, "lng": -10.841},
+			{"lat": -67.554, "lng": -10.303}
+		],
+	},
+	{
+		"type": "Restaurants",
 		"title": "Rooster Rest",
-		"notes": "The Rooster's Rest is a local establishment privately-owned by Lang Buddha and members of the Cleanbois. While the business mostly operates as a chalet-style restaurant (serving mainly chicken-based products and ramen bowls), The Rooster's Rest also operates as a bar and grill, music venue, nightclub, hostel, the base of operations for Rooster Cab Co., a secretive host for D&D campaigns, and as a casino, strip club and brothel on the down-low.",
+		"notes": "Il Rooster Rest è un locale antico gestito da dei vecchi giapponesi",
 		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
@@ -3316,20 +2917,19 @@
 	},
 	{
 		"type": "Restaurants",
-		"title": "UWU Caf\u00e9",
-		"notes": "UwU Caf\u00e9 is a restaurant created and owned by Ash Ketchup. Benji Ramos, Sherry Paie and Attorney James Haze each own a small percentage of the company and help run it",
+		"title": "Vanilla",
+		"notes": "Il Vanilla è locale gestito da un gruppo di latini che comprano l'erba",
 		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
-			{"lat": -66.759, "lng": -33.115},
-			{"lat": -66.759, "lng": -30.808},
-			{"lat": -68.069, "lng": -30.775},
-			{"lat": -68.069, "lng": -32.857},
-			{"lat": -67.746, "lng": -33.895},
-			{"lat": -67.506, "lng": -33.467},
-			{"lat": -67.216, "lng": -33.221},
-			{"lat": -66.985, "lng": -33.133}
+			{"lat": -69.725, "lng": -8.901},
+			{"lat": -70.038, "lng": -8.846},
+			{"lat": -70.406, "lng": -9.055},
+			{"lat": -71.041, "lng": -10.472},
+			{"lat": -70.854, "lng": -11.571},
+			{"lat": -70.091, "lng": -12.648},
+			{"lat": -69.774, "lng": -12.560}
 		]
 	},
 	{
