@@ -20,16 +20,3 @@ Alternatively a new issue can be created the region data and it will be added.
 ## Version
 
 1.1.0
-
-## Star History
-
-By starring this repository you attract contributors to invest time into maintaing it.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=skyrossm/np-gangmap&type=Date)](https://star-history.com/#skyrossm/np-gangmap)
-
-## Screenshots
-
-![screenshot-1](https://i.imgur.com/VavAdiG.jpg)
-![screenshot-2](https://i.imgur.com/978UDPW.jpg)
-![screenshot-3](https://i.imgur.com/ijtZIHO.jpg)
-![screenshot-4](https://i.imgur.com/VMuDSrK.png)
